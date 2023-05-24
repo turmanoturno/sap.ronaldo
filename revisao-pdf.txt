@@ -1,0 +1,46 @@
+REVISÃO
+
+html- marcação
+head- configuração da pag; invisivel;
+
+CSS - cascade style sheet (folhas de estilos em cascata)
+
+-inline(<style>);
+-externo(arquivo a parte/linkado/link rel; usado em outras pags);
+-interno(é definido no head: classes e id; <style>;);
+
+
+
+
+
+
+
+
+
+Vscode
+
+- alt '+ shift + f = ambientação do codigo
+- meta tag/seo: semantica; conjunto de caracteres; utf-8 para correção de erros no código;
+- SEO: otimização para a ferramenta de busca(google)
+
+
+semantica
+
+<PRE> : texto pre formatado, respeita quebra de linha e etc;
+
+<pre> + <code>: para js;
+
+article: distribuivel e reutilizavel; pode ser um article do section;
+section: agrupamento tematico de conteudos;
+
+<th> : table header
+
+
+
+
+
+Js - linguagem
+
+
+
+
